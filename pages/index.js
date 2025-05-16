@@ -9,7 +9,7 @@ function Home() {
         </p>
 
         <blockquote>
-          “A felicidade só é real quando é compartilhada.”
+          “A felicidade só é real quando é compartilhada.” - Henry Thoreau
         </blockquote>
 
         <h2>Perfil</h2>

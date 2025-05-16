@@ -35,7 +35,7 @@ function Home() {
           iremos publicar uma mini reportagem sobre sua cadena aqui!
         </p>
 
-        <blockquote>sbscadenas@gmail.com</blockquote>
+        <strong>sbscadenas@gmail.com</strong>
       </body>
     </html>
   );

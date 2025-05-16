@@ -28,13 +28,14 @@ function Home() {
         </ul>
 
         <h2>Contato</h2>
+        <p>Mandou uma via em São Bento do Sapucaí?</p>
+
         <p>
-          Mandou uma via em São Bento do Sapucaí? Nos envie um email com fotos e
-          as respostas das perguntas acima que iremos publicar uma mini
-          reportagem sobre sua cadena aqui!
+          Nos envie um email com fotos e as respostas das perguntas acima que
+          iremos publicar uma mini reportagem sobre sua cadena aqui!
         </p>
 
-        <p>sbscadenas@gmail.com</p>
+        <blockquote>sbscadenas@gmail.com</blockquote>
       </body>
     </html>
   );

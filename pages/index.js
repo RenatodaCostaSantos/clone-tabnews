@@ -26,6 +26,15 @@ function Home() {
           <li>Quais amigos você gostaria de celebrar nesse dia?</li>
           <li>O que vem agora?</li>
         </ul>
+
+        <h2>Contato</h2>
+        <p>
+          Mandou uma via em São Bento do Sapucaí? Nos envie um email com fotos e
+          as respostas das perguntas acima que iremos publicar uma mini
+          reportagem sobre sua cadena aqui!
+        </p>
+
+        <p>sbscadenas@gmail.com</p>
       </body>
     </html>
   );
